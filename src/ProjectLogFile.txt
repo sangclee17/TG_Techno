@@ -1,0 +1,262 @@
+
+
+	--------Run Project Through Command Mode---------
+
+	----Proj Name : G:/Documents/TG_REPO/src/PreAuto1.py----
+
+
+ImportSlb-----------------------------------------
+
+getModelName-------------------------------------- Passed
+
+Volume Mesh--------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Unmerge Body-------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+GetBodiesWithSubString---------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+GetBodiesWithSubString---------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Merge Bodies-------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Update Model-------------------------------------- Passed
+ Sucessfully updated topology of the model.
+
+getModelName-------------------------------------- Passed
+
+GetBodiesWithSubString---------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Merge Bodies-------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Update Model-------------------------------------- Passed
+ Sucessfully updated topology of the model.
+
+getModelName-------------------------------------- Passed
+
+DeleteEntity-------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Update Model-------------------------------------- Passed
+ Sucessfully updated topology of the model.
+
+ExportSlb----------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Unmerge Body-------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+GetBodiesWithSubString---------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+GetBodiesWithSubString---------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Merge Bodies-------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Update Model-------------------------------------- Passed
+ Sucessfully updated topology of the model.
+
+getModelName-------------------------------------- Passed
+
+GetBodiesWithSubString---------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Merge Bodies-------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Update Model-------------------------------------- Passed
+
+getGroupsWithSubString---------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+GetBodiesWithSubString---------------------------- Failed
+	Bodies are not found with the sub string.
+
+getModelName-------------------------------------- Passed
+
+GetBodiesWithSubString---------------------------- Failed
+	Bodies are not found with the sub string.
+
+getModelName-------------------------------------- Passed
+
+GetBodiesWithSubString---------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+RenameBody---------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Update Model-------------------------------------- Passed
+ Sucessfully updated topology of the model.
+
+getModelName-------------------------------------- Passed
+
+DeleteEntity-------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Update Model-------------------------------------- Passed
+ Sucessfully updated topology of the model.
+
+getModelName-------------------------------------- Passed
+
+DeleteSolidElements------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Sets---------------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Sets---------------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+DeleteEntity-------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Update Model-------------------------------------- Passed
+ Sucessfully updated topology of the model.
+
+ExportSlb----------------------------------------- Passed
+ Sucessfully updated topology of the model.
+
+Create Body From Faces---------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+RenameBody---------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Sets---------------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Material------------------------------------------ Passed
+
+Analysis Property--------------------------------- Passed
+
+Analysis Property--------------------------------- Passed
+
+getIntParameter----------------------------------- Passed
+
+Analysis Property--------------------------------- Passed
+
+Export and Solve---------------------------------- Passed
+ OptiStruct Export Completed
+
+Export and Solve---------------------------------- Passed
+
+getGroupsWithSubString---------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+GetBodiesWithSubString---------------------------- Failed
+	Bodies are not found with the sub string.
+
+getModelName-------------------------------------- Passed
+
+GetBodiesWithSubString---------------------------- Failed
+	Bodies are not found with the sub string.
+
+getModelName-------------------------------------- Passed
+
+GetBodiesWithSubString---------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+RenameBody---------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Update Model-------------------------------------- Passed
+ Sucessfully updated topology of the model.
+
+getModelName-------------------------------------- Passed
+
+DeleteSolidElements------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Sets---------------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Sets---------------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+DeleteEntity-------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Update Model-------------------------------------- Passed
+ Sucessfully updated topology of the model.
+
+Create Body From Faces---------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+RenameBody---------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Sets---------------------------------------------- Passed
+
+getModelName-------------------------------------- Passed
+
+Material------------------------------------------ Passed
+
+Analysis Property--------------------------------- Passed
+
+Analysis Property--------------------------------- Passed
+
+getIntParameter----------------------------------- Passed
+
+Analysis Property--------------------------------- Passed
+
+Export and Solve---------------------------------- Passed
+ OptiStruct Export Completed
+
+Export and Solve---------------------------------- Passed
+ Femap export completed.
+
+ExportSlb----------------------------------------- Passed Passed
+ Femap export completed.
+
+ExportSlb----------------------------------------- Passed
+
+Quit---------------------------------------------- Passed
+
+	--------Run Project Through Command Mode Completed---------
+
+Quit---------------------------------------------- Passed
+
+	--------Run Project Through Command Mode Completed---------

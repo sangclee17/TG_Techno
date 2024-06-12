@@ -1,0 +1,20 @@
+# Surface Mesh
+IdentifyFeaturesAndMesh,1
+ImprintMeshing,0
+BetterGeometryApproximation,0
+CoarseMesh,0
+CoarseMesh_UseExistingNodes,0
+CreateMeshInNewModel,1
+UserDefinedModelName,
+Tri6WithStraightEdges,0
+ImproveSkewAngle,0
+MappedMesh,0
+MeshPattern,0
+# Volume Mesh
+MeshDensity,0
+CreateVol,0
+OutputModelName,
+Assembly,0
+PreserveFaceMesh,0
+MeshAsSingleBody,0
+Retain2DSurfaceBodies,0

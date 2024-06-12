@@ -1,0 +1,62 @@
+# 過剰 - 意匠 - 最大値
+Max_DS_BorderColor,255 0 0
+Max_DS_TextColor,0 0 0
+Max_DS_BGColor,255 255 255
+Max_DS_BorderThickness,5
+Max_DS_FontSize,25
+
+# 過剰 - PL - 最大値
+Max_PL_BorderColor,255 0 0
+Max_PL_TextColor,252 252 252
+Max_PL_BGColor,132 161 214
+Max_PL_BorderThickness,5
+Max_PL_FontSize,25
+
+# 過剰 - 意匠 - NG
+Max_NG_DS_BorderColor,0 0 0
+Max_NG_DS_TextColor,0 0 0
+Max_NG_DS_BGColor,255 255 255
+Max_NG_DS_BorderThickness,1
+Max_NG_DS_FontSize,12
+
+# 過剰 - PL - NG
+Max_NG_PL_BorderColor,0 0 0
+Max_NG_PL_TextColor,252 252 252
+Max_NG_PL_BGColor,132 161 214
+Max_NG_PL_BorderThickness,1
+Max_NG_PL_FontSize,12
+
+# 不足 - 意匠 - 最小値
+Min_DS_BorderColor,255 0 0
+Min_DS_TextColor,0 0 0
+Min_DS_BGColor,255 255 255
+Min_DS_BorderThickness,5
+Min_DS_FontSize,25
+
+# 不足 - PL - 最小値
+Min_PL_BorderColor,255 0 0
+Min_PL_TextColor,252 252 252
+Min_PL_BGColor,132 161 214
+Min_PL_BorderThickness,5
+Min_PL_FontSize,25
+
+# 不足 - 意匠 - NG
+Min_NG_DS_BorderColor,0 0 0
+Min_NG_DS_TextColor0 0 0
+Min_NG_DS_BGColor,255 255 255
+Min_NG_DS_BorderThickness,1
+Min_NG_DS_FontSize,12
+
+# 不足 - PL - NG
+Min_NG_PL_BorderColor,0 0 0
+Min_NG_PL_TextColor,252 252 252
+Min_NG_PL_BGColor,132 161 214
+Min_NG_PL_BorderThickness,1
+Min_NG_PL_FontSize,12
+
+# 裏面
+Rimen_BorderColor,0 0 0
+Rimen_TextColor,0 0 0
+Rimen_BGColor,255 255 255
+Rimen_BorderThickness,1
+Rimen_FontSize,12
