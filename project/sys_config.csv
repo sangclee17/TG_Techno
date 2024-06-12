@@ -1,0 +1,9 @@
+SL_PATH,D:\ProgramFiles\SimLab Corporation\SimLab2019.2\bin\win64\SimLab.bat
+EPPS_FEMAPAC_EXE,D:\ProgramFiles\epps46\femapc_64.exe
+EPPS_ASTEAN_EXE,D:\ProgramFiles\epps46\astean_64.exe
+SERVER_PATH,\\202.15.85.150\caeuser\01_mekki_data_passing__kensyo
+HYPER_MESH_PATH,D:\ProgramFiles\Altair\2019\hm\bin\win64\hmbatch.exe
+HYPER_VIEW_PATH,D:\ProgramFiles\Altair\2019\hw\bin\win64\hw.exe
+EXCEL_PATH,C:\Program Files (x86)\Microsoft Office\Office16\EXCEL.EXE
+RESULT_PATH,\\202.15.85.150\caeuser\01_mekki_data_passing__kensyo\âêÕåãâ 
+ERROR_PATH,\\202.15.85.150\caeuser\01_mekki_data_passing__kensyo\âêÕÉGÉâÅ[
